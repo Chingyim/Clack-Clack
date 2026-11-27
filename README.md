@@ -23,6 +23,8 @@ Clack Clack 的桌宠创作灵感来自抖音博主「米粒」的作品《有�
 
 打开本仓库的 **Releases**，在版本页的 **Assets** 中按电脑型号选择安装包。
 
+> 国内访问 GitHub 不稳定时，可用 Gitee 镜像：[gitee.com/chingyim/clack-clack](https://gitee.com/chingyim/clack-clack)，安装包相同。
+
 | 电脑                                 | 下载文件                         | 首次使用                                                 |
 | ---------------------------------- | ---------------------------- | ---------------------------------------------------- |
 | Apple 芯片 Mac（M 系列，macOS 12 或更新）    | 以 `macOS-arm64.dmg` 结尾       | 打开磁盘映像，把 Clack Clack 拖入「应用程序」，再从那里启动。                |
