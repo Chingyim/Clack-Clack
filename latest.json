@@ -1,0 +1,17 @@
+{
+  "version": "0.2.32",
+  "published": "2026-11-28",
+  "notes": "新增检查更新（手动触发、签名校验）；安装时自动关闭旧版本；Windows 10 以下安装前拦截",
+  "assets": {
+    "macos-arm64": {
+      "file": "Clack-Clack-0.2.32-macOS-arm64.dmg",
+      "sha256": "19a5da861b2d08233ae4fac26ee6dc5adada601b3d1e58b652c02df5fc6e89c2",
+      "size": 3300497
+    },
+    "windows-x64": {
+      "file": "Clack-Clack-0.2.32-Windows-x64-setup.exe",
+      "sha256": "144660669b7eb09a278a0782d472b93c7f8ad31d526121a5d2d2e8473b629263",
+      "size": 2564367
+    }
+  }
+}
